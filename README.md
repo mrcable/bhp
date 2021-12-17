@@ -1,2 +1,2 @@
 # bhp
-Black Hat Python ntes
+Black Hat Python Notes
